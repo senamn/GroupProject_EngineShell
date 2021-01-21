@@ -54,7 +54,6 @@ frequently. These functions include:
 <b> Known Bugs </b>
 <ul>
 <li>alias throws a core dumped at certain times.</li>
-<li>path code is not included since it was not delivered by Curtis.</li>
 </ul>
 
 
